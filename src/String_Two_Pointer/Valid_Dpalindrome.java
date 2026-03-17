@@ -1,4 +1,4 @@
-package String;
+package String_Two_Pointer;
 
 public class Valid_Dpalindrome {
     public static void main(String[] args) {
